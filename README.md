@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/b7852885-3819-4b5e-b67c-42367bd1434b)
 
+![image](https://github.com/user-attachments/assets/6dd17204-c6fe-486b-864e-cdd6d0692a53)
+
+
 
 
 A modern, full-stack application for connecting clients and freelancers, managing projects, bids, payments, and communications.
