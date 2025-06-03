@@ -1,5 +1,9 @@
 # Freelance Project Management Platform
 
+![image](https://github.com/user-attachments/assets/b7852885-3819-4b5e-b67c-42367bd1434b)
+
+
+
 A modern, full-stack application for connecting clients and freelancers, managing projects, bids, payments, and communications.
 
 ## Features
